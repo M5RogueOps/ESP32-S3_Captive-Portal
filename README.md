@@ -1,6 +1,3 @@
-Yes, here is the exact raw Markdown formatting for the `README.md` file so you can copy and paste it directly into your GitHub repository:
-
-
 # ESP32-S3 Advanced Captive Portal Firmware
 
 A self-contained, lightweight Captive Portal framework built for the **ESP32-S3** (optimized for the LilyGO T-Dongle-S3 and similar form-factors). This firmware establishes a local Wi-Fi Access Point, intercepts all DNS requests to force open a portal landing page, captures form data directly to the onboard `LittleFS` storage system, and provides a powerful, multi-tabbed web Administration Panel.
