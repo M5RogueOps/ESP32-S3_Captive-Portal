@@ -18,6 +18,7 @@ A self-contained, lightweight Captive Portal framework built for the **ESP32-S3*
 ## Hardware Variations Reference
 
 This firmware targets the **With Screen** variant of the LilyGO T-Dongle-S3 board to facilitate low-level hardware initialization configurations, though the core web-app framework remains compatible across both form factors.
+i got mine from aliexpress but the product came from spotpear https://spotpear.com/index/product/detail/id/1235.html
 
 LilyGO T-Dongle-S3 Product Variations
 <img width="800" height="800" alt="t-dongle-s3-07-en" src="https://github.com/user-attachments/assets/35990ca7-7fa0-442d-8800-060843ebd1d7" />
